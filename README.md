@@ -5,4 +5,4 @@ Scrivi un programma Java che:
 - Stampi temperatura, umidità e condizioni (es. “clear sky”) sulla console.
 
 URL base dell'API di OpenMeteo:
-https://api.open-meteo.com/v1/forecast?latitude= + ```latitudine``` + &longitude= + ```longitudine``` + &current_weather=true
+[https://api.open-meteo.com/v1/forecast?latitude= + ```latitudine``` + &longitude= + ```longitudine``` + &current_weather=true]
